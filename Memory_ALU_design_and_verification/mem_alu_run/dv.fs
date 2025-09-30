@@ -1,0 +1,11 @@
+../mem_alu_verification/interface.sv
+../mem_alu_verification/transaction.sv
+../mem_alu_verification/generator.sv
+../mem_alu_verification/driver.sv
+../mem_alu_verification/monitor_in.sv
+../mem_alu_verification/monitor_out.sv
+../mem_alu_verification/scoreboard.sv
+../mem_alu_verification/ref_model.sv
+../mem_alu_verification/environment.sv
+../mem_alu_verification/test.sv
+../mem_alu_verification/testbench.sv
